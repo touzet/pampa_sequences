@@ -1,4 +1,4 @@
-# pampa_sequences
+# PAMPA sequences
 
 This repository contains a curated database of **COL1A1** (Collagen Type I Alpha 1 Chain) and **COL1A2** (Collagen Type I Alpha 2 Chain) sequences commonly used in **ZooMS** (*Zooarchaeology by Mass Spectrometry*). 
 
